@@ -1,0 +1,4 @@
+
+qwerty|23|56|12|
+./travel.sh: line 68: 3: Bad file descriptor|
+qwbn|65|34|1224|
